@@ -5,7 +5,7 @@ from library import Book, Library
 
 def main():
     library = Library()
-
+#Pętla - dopóki wybór jest właściwy (1-5) wykonuje się
     while True:
         print("\n=== SYSTEM BIBLIOTECZNY ===")
         print("1. Dodaj książkę")
